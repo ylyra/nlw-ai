@@ -111,9 +111,6 @@ export default function Home() {
                   </SelectItem>
                 </SelectContent>
               </Select>
-              <span className="block text-xs italic text-muted-foreground">
-                Você poderá customizar essa opção em breve
-              </span>
             </div>
 
             <div className="space-y-2">
